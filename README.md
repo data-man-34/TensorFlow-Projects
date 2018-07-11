@@ -2,26 +2,26 @@
 This repository contains different kinds of Neural Networks Projects implemented in TensorFlow.
 
 # Requirements
-Package             Version
 ------------------- ---------
-h5py                2.8.0
-html5lib            0.9999999
-jupyter             1.0.0
-Keras               2.2.0
-Keras-Preprocessing 1.0.1
-MarkupSafe          1.0
-matplotlib          2.2.2
-numpy               1.14.5
-pandas              0.23.3
-protobuf            3.6.0
-scipy               1.1.0
-seaborn             0.8.1
-six                 1.11.0
-tensorboard         1.8.0
-tensorflow          1.8.0
-tornado             5.0.2
-virtualenv          16.0.0
-*This list is NOT complete
+h5py                2.8.0, 
+html5lib            0.9999999, 
+jupyter             1.0.0, 
+Keras               2.2.0, 
+Keras-Preprocessing 1.0.1, 
+MarkupSafe          1.0, 
+matplotlib          2.2.2, 
+numpy               1.14.5, 
+pandas              0.23.3, 
+protobuf            3.6.0, 
+scipy               1.1.0, 
+seaborn             0.8.1, 
+six                 1.11.0, 
+tensorboard         1.8.0, 
+tensorflow          1.8.0, 
+tornado             5.0.2, 
+virtualenv          16.0.0, 
+*Notice: this list is NOT complete
+------------------- ---------
 
 # Update Wed. July 11, 2018
 
