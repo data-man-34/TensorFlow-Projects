@@ -1,6 +1,5 @@
 # Various Neural Networks Projects by TensorFlow
-This repository contains different kinds of Neural Networks Projects of mine
-All implemented in TensorFlow.
+This repository contains different kinds of Neural Networks Projects implemented in TensorFlow.
 
 # Requirements
 Package             Version
@@ -22,7 +21,7 @@ tensorboard         1.8.0
 tensorflow          1.8.0
 tornado             5.0.2
 virtualenv          16.0.0
-*This List is NOT complete
+*This list is NOT complete
 
 # Update Wed. July 11, 2018
 
