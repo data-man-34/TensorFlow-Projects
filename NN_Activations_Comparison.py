@@ -110,3 +110,4 @@ plt.xlabel('epoch')
 plt.legend(['LeakyReLU', 'ELU'], loc = 'upper right')
 plt.show()
 
+
