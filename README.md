@@ -1,5 +1,5 @@
 # Various Neural Networks Projects by TensorFlow
-This repository contains different kinds of Neural Networks Projects implemented in TensorFlow.
+This repository contains different kinds of Neural Networks projects implemented in TensorFlow.
 
 # Requirements
 ------------------- ---------
@@ -56,7 +56,7 @@ Comparing Results (Model-Loss VS. Epoches):
 
 # Update Wed. July 11, 2018
 
-1. XNOR Gate by simple 2-layer Neural Network:
+1. XNOR Gate by Simple 2-layer Neural Network:
 
 --xnor_gate_sigmoid_TF.py
 
@@ -66,7 +66,7 @@ Comparing Results (Model-Loss VS. Epoches):
 
 --XNOR = AND || (NOT x1)AND(NOT x2)
 
---Result Prediction for [0, 0], [1, 0], [0, 1], [1, 1] and trained weights
+--Result prediction for [0, 0], [1, 0], [0, 1], [1, 1] and trained weights
 
 ![XNOR Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/XNOR-gate.png)
 
