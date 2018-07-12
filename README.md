@@ -30,7 +30,7 @@ virtualenv          16.0.0
 
 # Update Thu. July 12, 2018
 
-1. Neural Network to solve the MNIST dataset recognition:
+## Neural Network to solve the MNIST dataset recognition:
 
 2-Layer-MNIST.py
 
@@ -44,7 +44,7 @@ Simple two layer NN with sigmoid activation for 1st layer and softmax at output 
 
 ![Loss VS. Epoches](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/2-Layer_MNIST.png)
 
-2. Exploring different performance of various activation functions on Neural Network:
+## Exploring different performance of various activation functions on Neural Network:
 
 NN_Activations_Comparison.py
 
@@ -61,9 +61,9 @@ Comparing Results (Accuracy VS. Epoches):
 
 ![Sigmoid VS. ReLU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/sig-relu-tanh.png)
 
-**In my 2-layer NN with softmax as output activation function, ReLU, as the first layer, is behaving surprisingly bad comparing to sigmoid and tanh. I will keep updating the reason behind. 
+### In my 2-layer NN with softmax as output activation function, ReLU, as the first layer, is behaving surprisingly bad comparing to sigmoid and tanh. I will keep updating the reason behind. 
 
-ELU and LeakyReLU is also suffering from such poor behavior. Corrected results will be updated soon.
+### ELU and LeakyReLU are also suffering from such poor behavior. Corrected results will be updated soon.
 
 --ELU VS. tanh
 
@@ -81,7 +81,7 @@ Sigmoid and tanh both show steady improving accuracy as epoch increasing, with a
 
 # Update Wed. July 11, 2018
 
-1. XNOR Gate by Simple 2-layer Neural Network:
+## XNOR Gate by Simple 2-layer Neural Network:
 
 --xnor_gate_sigmoid_TF.py
 
@@ -95,7 +95,7 @@ Sigmoid and tanh both show steady improving accuracy as epoch increasing, with a
 
 ![XNOR Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/XNOR-gate.png)
 
-2. Simple Generative Adversarial Networks:
+## Simple Generative Adversarial Networks:
 
 --simple_GAN_tensorflow.py
 
