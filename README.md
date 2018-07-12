@@ -30,11 +30,11 @@ virtualenv          16.0.0
 
 # Update Thu. July 12, 2018
 
-## Neural Network to solve the MNIST dataset recognition:
+## Neural Network for MNIST Dataset Recognition:
 
 2-Layer-MNIST.py
 
-Simple two layer NN with sigmoid activation for 1st layer and softmax at output layer
+Simple two layer NN with sigmoid activation for 1st layer and softmax activation for output layer
 
 --The Final Accuracy:
 
