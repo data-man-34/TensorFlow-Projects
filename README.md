@@ -29,6 +29,21 @@ virtualenv          16.0.0
 ------------------- ---------
 
 # Update Thu. July 12, 2018
+
+Neural Network to solve the MNIST dataset recognition:
+
+2-Layer-MNIST.py
+
+Simple two layer NN with sigmoid activation for 1st layer and softmax at output layer
+
+--Evaluated the accuracy:
+
+![MNIST-Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/MNIST.png)
+
+--Loss VS. Epoches
+
+![Loss VS. Epoches](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/2-Layer_MNIST.png)
+
 Exploring different performance of various activation functions on Neural Network:
 
 NN_Activations_Comparison.py
@@ -40,7 +55,7 @@ Advanced activation functions: LeakyReLU and ELU.
 Test Case: Neural Network for solving the MNIST dataset recognition
 http://yann.lecun.com/exdb/mnist/
 
-Comparing Results (Model-Loss VS. Epoches): 
+Comparing Results (Accuracy VS. Epoches): 
 
 --Sigmoid VS. ReLU VS. tanh
 
