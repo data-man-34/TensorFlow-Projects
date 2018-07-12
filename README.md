@@ -58,21 +58,25 @@ Comparing Results (Model-Loss VS. Epoches):
 
 1. XNOR Gate by simple 2-layer Neural Network:
 
-xnor_gate_sigmoid_TF.py
+--xnor_gate_sigmoid_TF.py
 
-Using sigmoid for the all layers' activation and square error as a cost function.
+--Using sigmoid for the all layers' activation and square error as a cost function.
 
-Using AdamOptimizer for the neural network.
+--Using AdamOptimizer for the neural network.
 
-XNOR = AND || (NOT x1)AND(NOT x2)
+--XNOR = AND || (NOT x1)AND(NOT x2)
+
+--Result Prediction for [0, 0], [1, 0], [0, 1], [1, 1] and trained weights
+
+![XNOR Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/XNOR-gate.png)
 
 2. Simple Generative Adversarial Networks:
 
-simple_GAN_tensorflow.py
+--simple_GAN_tensorflow.py
 
-Approximating a 1-dimensional Gaussian distribution.
+--Approximating a 1-dimensional Gaussian distribution.
 
-Result (generated data-real data-decision boundary)
+--Result (generated data-real data-decision boundary)
 
 ![GAN Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/simple_GAN_result.png)
 
