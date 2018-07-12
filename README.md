@@ -30,13 +30,13 @@ virtualenv          16.0.0
 
 # Update Thu. July 12, 2018
 
-Neural Network to solve the MNIST dataset recognition:
+1. Neural Network to solve the MNIST dataset recognition:
 
 2-Layer-MNIST.py
 
 Simple two layer NN with sigmoid activation for 1st layer and softmax at output layer
 
---Evaluated the accuracy:
+--The Final Accuracy:
 
 ![MNIST-Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/MNIST.png)
 
@@ -44,7 +44,7 @@ Simple two layer NN with sigmoid activation for 1st layer and softmax at output 
 
 ![Loss VS. Epoches](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/2-Layer_MNIST.png)
 
-Exploring different performance of various activation functions on Neural Network:
+2. Exploring different performance of various activation functions on Neural Network:
 
 NN_Activations_Comparison.py
 
@@ -61,6 +61,10 @@ Comparing Results (Accuracy VS. Epoches):
 
 ![Sigmoid VS. ReLU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/sig-relu-tanh.png)
 
+**In my 2-layer NN with softmax as output activation function, ReLU, as the first layer, is behaving surprisingly bad comparing to sigmoid and tanh. I will keep updating the reason behind. 
+
+ELU and LeakyReLU is also suffering from such poor behavior. Corrected results will be updated soon.
+
 --ELU VS. tanh
 
 ![ELU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/tanh-ELU.png)
@@ -68,6 +72,12 @@ Comparing Results (Accuracy VS. Epoches):
 --ELU VS. LeakyReLU
 
 ![ELU VS. LeakyReLU](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/LeakyReLU-ELU.png)
+
+--Sigmoid VS. tanh
+
+![sig VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/sig-tanh.png)
+
+Sigmoid and tanh both show steady improving accuracy as epoch increasing, with a fairly nice (around 90%) starting accuracy.
 
 # Update Wed. July 11, 2018
 
