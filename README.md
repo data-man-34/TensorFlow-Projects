@@ -77,7 +77,7 @@ Comparing Results (Accuracy VS. Epoches):
 
 ![sig VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/sig-tanh.png)
 
-Sigmoid and tanh both show steady improving accuracy as epoch increasing, with a fairly nice (around 90%) starting accuracy.
+Sigmoid and tanh both show steady improving accuracy as epoch increases, with a fairly nice (around 90%) starting accuracy.
 
 # Update Wed. July 11, 2018
 
