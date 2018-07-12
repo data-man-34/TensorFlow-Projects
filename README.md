@@ -40,12 +40,15 @@ http://yann.lecun.com/exdb/mnist/
 Comparing cases: 
 
 Sigmoid VS. ReLU VS. tanh
+
 ![Sigmoid VS. ReLU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/sig-relu-tanh.png)
 
 ELU VS. tanh
+
 ![ELU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/tanh-ELU.png)
 
 ELU VS. LeakyReLU
+
 ![ELU VS. LeakyReLU](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/LeakyReLU-ELU.png)
 
 # Update Wed. July 11, 2018
