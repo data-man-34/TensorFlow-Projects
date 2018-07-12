@@ -29,7 +29,7 @@ virtualenv          16.0.0
 ------------------- ---------
 
 # Update Thu. July 12, 2018
-1. Exploring different performance of various activation functions on Neural Network:
+Exploring different performance of various activation functions on Neural Network:
 NN_Activations_Comparison.py
 Basic activation functions: sigmoid, relu, and tanh.
 Advanced activation functions: LeakyReLU and ELU.
@@ -37,7 +37,7 @@ Advanced activation functions: LeakyReLU and ELU.
 Test Case: Neural Network for solving the MNIST dataset recognition
 http://yann.lecun.com/exdb/mnist/
 
-Comparing cases: 
+Comparing Results (Model-Loss VS. Epoches): 
 
 Sigmoid VS. ReLU VS. tanh
 
