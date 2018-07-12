@@ -34,7 +34,7 @@ virtualenv          16.0.0
 
 2-Layer-MNIST.py
 
-Simple two layer NN with sigmoid activation for 1st layer and softmax activation for output layer
+Simple 2-layer Neural Network with sigmoid activation for 1st layer and softmax activation for output layer
 
 --The Final Accuracy:
 
