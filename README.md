@@ -7,8 +7,6 @@ jupyter             1.0.0
 
 Keras               2.2.0
 
-Keras-Preprocessing 1.0.1 
-
 matplotlib          2.2.2
 
 numpy               1.14.5
