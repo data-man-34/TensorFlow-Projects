@@ -32,7 +32,7 @@ virtualenv          16.0.0
 
 ## Neural Network for MNIST Dataset Recognition:
 
-2-Layer-MNIST.py
+>2-Layer-MNIST.py
 
 Simple 2-layer Neural Network with sigmoid activation for 1st layer and softmax activation for output layer
 
@@ -46,7 +46,7 @@ Simple 2-layer Neural Network with sigmoid activation for 1st layer and softmax 
 
 ## Exploring different performance of various activation functions on Neural Network:
 
-NN_Activations_Comparison.py
+>NN_Activations_Comparison.py
 
 Basic activation functions: sigmoid, relu, and tanh.
 
@@ -83,7 +83,7 @@ Sigmoid and tanh both show steady improving accuracy as epoch increases, with a 
 
 ## XNOR Gate by Simple 2-layer Neural Network:
 
---xnor_gate_sigmoid_TF.py
+>xnor_gate_sigmoid_TF.py
 
 --Using sigmoid for the all layers' activation and square error as a cost function.
 
@@ -97,7 +97,7 @@ Sigmoid and tanh both show steady improving accuracy as epoch increases, with a 
 
 ## Simple Generative Adversarial Networks:
 
---simple_GAN_tensorflow.py
+>simple_GAN_tensorflow.py
 
 --Approximating a 1-dimensional Gaussian distribution.
 
