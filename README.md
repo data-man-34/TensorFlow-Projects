@@ -25,6 +25,25 @@ virtualenv          16.0.0
 
 *Notice: this list is NOT complete
 ------------------- ---------
+# Update Thu. July 26, 2018
+
+## Convolutional Neural Network for the Quick Draw Game
+
+>QuickDraw
+
+Convolutional Neural Network for a QuickDraw classifier trained by dataset provided by Google
+
+https://console.cloud.google.com/storage/browser/quickdraw_dataset/?pli=1
+
+I used the simplified data in form of numpy bitmap provided by Google and the Quick Draw AI Experiments
+
+https://quickdraw.withgoogle.com/data
+
+Check
+
+>QD.ipynb
+
+for details
 
 # Update Thu. July 12, 2018
 
