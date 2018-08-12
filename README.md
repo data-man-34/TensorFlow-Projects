@@ -1,4 +1,4 @@
-# Various Neural Networks Projects by TensorFlow
+# Various small projects implemented in TensorFlow: CNN, RNN, etc.
 This repository contains different kinds of Neural Networks projects implemented in TensorFlow.
 
 # Requirements
