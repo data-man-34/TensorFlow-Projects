@@ -31,7 +31,7 @@ virtualenv          16.0.0
 
 >QuickDraw
 
-Convolutional Neural Network for a QuickDraw classifier trained by dataset provided by Google
+Convolutional Neural Network for a QuickDraw classifier trained by QuickDraw dataset provided by Google
 
 https://console.cloud.google.com/storage/browser/quickdraw_dataset/?pli=1
 
@@ -41,9 +41,13 @@ https://quickdraw.withgoogle.com/data
 
 Check
 
->QD.ipynb
+>Quick_Draw_New.ipynb
 
-for details
+for Final Version trained in Google Colab 
+
+(3 examples were tests instead of 100 for time-saving, please remember to change the mini-class.txt and size of softmax layer!)
+
+![QD](https://github.com/cristianoBY/TensorFlow-Project/blob/master/QuickDraw/Screen%20Shot%202018-08-12%20at%205.35.36%20PM.png)
 
 # Update Thu. July 12, 2018
 
