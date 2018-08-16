@@ -44,6 +44,8 @@ Solved the three-class classification problem in the given dataset using SVM cla
 
 Solved the three-class classification problem using Min-Max-Module SVM and part-vs-part task decomposition method. Divided the three-class problem into three two-class problems using one-vs-rest method and then decompose these imbalanced two-class problems.
 
+All 3 projects on Thu. Aug 16, 2018 are trained in Google Colab; written in Python 2.
+
 # Update Thu. July 26, 2018
 
 ## Convolutional Neural Network for Google QuickDraw Game
