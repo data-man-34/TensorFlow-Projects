@@ -82,7 +82,7 @@ for Final Version trained in Google Colab
 
 (3 examples were tests instead of 100 for time-saving, please remember to change the mini-class.txt and size of softmax layer!)
 
-![QD](https://github.com/cristianoBY/TensorFlow-Project/blob/master/QuickDraw/Screen%20Shot%202018-08-12%20at%205.35.36%20PM.png)
+![QD](https://github.com/cristianoBY/TensorFlow-Project/blob/master/TF%20pics/QuickDraw.png)
 
 # Update Thu. July 12, 2018
 
