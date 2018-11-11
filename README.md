@@ -82,7 +82,7 @@ for Final Version trained in Google Colab
 
 (3 examples were tests instead of 100 for time-saving, please remember to change the mini-class.txt and size of softmax layer!)
 
-![QD](https://github.com/cristianoBY/TensorFlow-Project/blob/master/TF%20pics/QuickDraw.png)
+![QD](https://github.com/cristianoBY/TensorFlow-Project/blob/master/Pictures/QuickDraw.png)
 
 # Update Thu. July 12, 2018
 
@@ -94,11 +94,11 @@ Simple 2-layer Neural Network with sigmoid activation for 1st layer and softmax 
 
 --The Final Accuracy:
 
-![MNIST-Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/MNIST.png)
+![MNIST-Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/Pictures/MNIST.png)
 
 --Loss VS. Epoches
 
-![Loss VS. Epoches](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/2-Layer_MNIST.png)
+![Loss VS. Epoches](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/Pictures/2-Layer_MNIST.png)
 
 ## Exploring different performance of various activation functions on Neural Network:
 
@@ -114,7 +114,7 @@ Comparing Results (Accuracy VS. Epoches):
 
 --Sigmoid VS. ReLU VS. tanh
 
-![Sigmoid VS. ReLU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/sig-relu-tanh.png)
+![Sigmoid VS. ReLU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/Pictures/sig-relu-tanh.png)
 
 ### In my 2-layer NN with softmax as output activation function, ReLU, as the first layer, is behaving surprisingly bad comparing to sigmoid and tanh. I will keep updating the reason behind. 
 
@@ -122,15 +122,15 @@ Comparing Results (Accuracy VS. Epoches):
 
 --ELU VS. tanh
 
-![ELU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/tanh-ELU.png)
+![ELU VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/Pictures/tanh-ELU.png)
 
 --ELU VS. LeakyReLU
 
-![ELU VS. LeakyReLU](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/LeakyReLU-ELU.png)
+![ELU VS. LeakyReLU](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/Pictures/LeakyReLU-ELU.png)
 
 --Sigmoid VS. tanh
 
-![sig VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/sig-tanh.png)
+![sig VS. tanh](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/Pictures/sig-tanh.png)
 
 Sigmoid and tanh both show steady improving accuracy as epoch increases, with a fairly nice (around 90%) starting accuracy.
 
@@ -148,7 +148,7 @@ Sigmoid and tanh both show steady improving accuracy as epoch increases, with a 
 
 --Result prediction for [0, 0], [1, 0], [0, 1], [1, 1] and trained weights
 
-![XNOR Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/XNOR-gate.png)
+![XNOR Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/Pictures/XNOR-gate.png)
 
 ## Simple Generative Adversarial Networks:
 
@@ -158,7 +158,7 @@ Sigmoid and tanh both show steady improving accuracy as epoch increases, with a 
 
 --Result (generated data-real data-decision boundary)
 
-![GAN Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/TF%20pics/simple_GAN_result.png)
+![GAN Result](https://github.com/cristianoBY/Neural-Networks-Projects-TensorFlow/blob/master/Pictures/simple_GAN_result.png)
 
 # Requirements
 ------------------- ---------
